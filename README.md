@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkataraju</h1>
-<h3 align="center">AI & Cloud Engineer | 3+ Years of Experience</h3>
+<h3 align="center">AI & Cloud Engineer | 2+ Years of Experience</h3>
 
 <p align="center">
   <a href="https://nvrcode26.github.io/nvrcode26/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%230A0A0A?style=for-the-badge&logo=github&logoColor=white" /></a>
